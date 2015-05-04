@@ -1,9 +1,0 @@
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\bin\Debug\BatchImageResizer.exe.config
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\bin\Debug\BatchImageResizer.exe
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\bin\Debug\BatchImageResizer.pdb
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\obj\Debug\BatchImageResizer.csprojResolveAssemblyReference.cache
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\obj\Debug\BatchImageResizer.Form1.resources
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\obj\Debug\BatchImageResizer.Properties.Resources.resources
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\obj\Debug\BatchImageResizer.csproj.GenerateResource.Cache
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\obj\Debug\BatchImageResizer.exe
-D:\WORKSPACE\imageResizer\implementacao\BatchImageResizer\obj\Debug\BatchImageResizer.pdb
